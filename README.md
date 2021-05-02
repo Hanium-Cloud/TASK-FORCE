@@ -31,4 +31,4 @@
 
 
 ## 🗒 회의록
-- [규칙/주제/역할 20210505](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210505.md)
+- [20210505 규칙/주제/역할](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210505.md)
