@@ -114,7 +114,7 @@
    - 커먼타운 트리하우스
    - 우주 (WOOZOO)
    - 스파크플러스
-   - 트리비고
+   - 트리바고
    - 익스피디아
    - VBRO
 
@@ -122,3 +122,4 @@
 - [20210505 규칙/주제/역할](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210505.md)
 - [20210512 서비스 상위 설계](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210512.md)
 - [20210522 서비스 상위 설계 초안](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210522.md)
+- [20210526 서비스 상위 설계 초안](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210526.md)
