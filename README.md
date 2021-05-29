@@ -108,16 +108,8 @@
 
 - 같은 커뮤니티에 속한 구매자들은 메시지를 주고받을 수 있다
 
-### 서비스 레퍼런스
-   - Aribnb
-   - 야놀자
-   - 여기어때
-   - 커먼타운 트리하우스
-   - 우주 (WOOZOO)
-   - 스파크플러스
-   - 트리바고
-   - 익스피디아
-   - VBRO
+## 설계
+- DB ERD : https://www.erdcloud.com/d/GFgXfSBb2AYBruWx7
 
 ## 🗒 회의록
 - [20210505 규칙/주제/역할](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210505.md)
