@@ -109,7 +109,8 @@
 - 같은 커뮤니티에 속한 구매자들은 메시지를 주고받을 수 있다
 
 ## 설계
-- DB ERD : https://www.erdcloud.com/d/GFgXfSBb2AYBruWx7
+- UI 설계 : [Link](https://www.figma.com/file/YzAN7v4DfyARhRAoJKlRPO/Real-Estate-UI-Kit)
+- DB ERD : [Link](https://www.erdcloud.com/d/GFgXfSBb2AYBruWx7)
 - 도메인 설계
   <img alt="moongae" src="https://user-images.githubusercontent.com/59433441/119817876-73a9bc00-bf29-11eb-8cf3-cb4503eca262.jpg"/>
 
