@@ -110,6 +110,9 @@
 
 ## 설계
 - DB ERD : https://www.erdcloud.com/d/GFgXfSBb2AYBruWx7
+- 도메인 설계
+  <img alt="moongae" src="https://user-images.githubusercontent.com/59433441/119817876-73a9bc00-bf29-11eb-8cf3-cb4503eca262.jpg"/>
+
 
 ## 🗒 회의록
 - [20210505 규칙/주제/역할](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210505.md)
