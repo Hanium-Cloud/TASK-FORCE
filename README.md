@@ -4,6 +4,7 @@
 ## 🦹‍ Team
 |조유신|나동민|권준원|홍석주|
 |:---:|:---:|:---:|:---:|
+|커뮤니티팀||||
 |[labyu](https://github.com/labyu)|[skehdxhd96](https://github.com/skehdxhd96)|[zooneon](https://github.com/zooneon)|[hsju0202](https://github.com/hsju0202)|
 |![](https://avatars.githubusercontent.com/u/35277854?v=4)|![](https://avatars.githubusercontent.com/u/55571682?v=4)|![](https://avatars.githubusercontent.com/u/59433441?v=4)|![](https://avatars.githubusercontent.com/u/57715601?v=4)|
 |코오오오딩|많이 배우겠습니다|구뭉팀 화이팅!|중도하차 == 10억 기부|
