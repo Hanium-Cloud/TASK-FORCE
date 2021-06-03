@@ -37,6 +37,64 @@
 - 팀원의 의견을 들을 때 가능한 방향으로 먼저 생각하기
 - 똑같은 문제로 30분이상 고민하지 않기
 
+## 👥 Git & Github rule
+
+### `Branch rule`
+**master**
+- 모든 테스트를 마치고 배포하는 코드를 관리한다.
+- 직접적으로 commit하지 않고, PR을 통해 merge한다.
+- merge되면 자동 배포가 되도록 CI/CD를 구성한다.
+
+**develop**
+- master브랜치에서 분기하여 만든다.
+- 기능 개발이 완료된 코드를 관리한다.
+- 팀에서 유지하는 가장 최신의 코드이다.
+
+**feature**
+- develop브랜치에서 분기하여 만든다.
+- 기능별로 feature브랜치를 만들며, 브랜치명은 `'feature/이슈 번호'`로 한다.
+	- ex) feature/1
+- 개발이 완료된 브랜치는 develop브랜치로 PR을 남긴다.
+
+**release**
+- develop브랜치에서 분기하여 만든다.
+- 배포하기 직전 마지막 테스트를 진행하며, 모든 테스트를 완료하면 master브랜치로 PR을 남긴다.
+- 만약 테스트 중 수정된 부분이 있다면 develop 브랜치로 merge한다.
+- 브랜치명은 `'release-배포 버전'`으로 한다.
+	- ex) release-1.3
+
+**hotfix**
+- master브랜치에서 분기하여 만든다.
+- 배포된 코드에서 버그가 발생했거나 급하게 수정해야할 부분이 있을 경우 사용한다.
+- 코드 수정이 완료되면 master브랜치와 develop브랜치에 PR을 남긴다.
+- 브랜치명은 `'hotfix-배포 버전'`으로 한다.
+	- ex) hotfix-1.3.1
+
+### `Commit rule`
+**classification**
+- `FEAT` : new feature
+- `FIX` : bug fix
+- `REFACTOR` : refactoring production code
+- `DOCS` : change documentation
+- `SETUP` : modify project setting
+- `CHORE` : update trivial tasks
+
+**how to**
+- `[대분류: 커밋 제목]`형태로 첫 라인 작성
+- 대분류 이외에는 한글로 작성
+	ex) FEAT: 로그인 API 추가
+
+### `Github Rule`
+**Issue**
+- label은 소문자로 한다. (bug, feature, document..)
+- 개발 업무는 feature단위로 작성한다.
+- 기능 개발이 필요할 경우 issue로 요청한다.
+
+**Pull Request**
+- PR 제목은 `[브랜치명] 이슈 제목`으로 한다.
+	- ex) [feature/1] 조회 API 구현
+
+---
 
 # 주제
 ## 주거 공유 플랫폼 (가제)
