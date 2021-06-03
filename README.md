@@ -97,7 +97,7 @@
 ---
 
 # 주제
-## 주거 공유 플랫폼 (가제)
+## room9
 ### 서비스 설명
 주거 공유 플랫폼
 
@@ -178,3 +178,4 @@
 - [20210512 서비스 상위 설계](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210512.md)
 - [20210522 서비스 상위 설계 초안](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210522.md)
 - [20210526 서비스 상위 설계 초안](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210526.md)
+- [20210602 개발 시작! 구체 계획 2주 수립](https://github.com/Hanium-Cloud/TASK-FORCE/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/%ED%9A%8C%EC%9D%98-20210602.md)
